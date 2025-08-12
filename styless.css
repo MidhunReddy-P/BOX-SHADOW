@@ -1,0 +1,21 @@
+.red-container {
+    background-color: #ff9999;
+    padding: 20px;
+}
+
+.red-list {
+    background-color: #ffe6e6;
+    padding: 3px;
+    color: darkred;
+}
+
+.blue-container {
+    background-color: #3399ff;
+    padding: 20px;
+}
+
+.blue-list li {
+    background-color: #cce5ff;
+    margin-bottom: 5px;
+    padding: 5px;
+}
